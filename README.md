@@ -20,7 +20,7 @@
 
 ---
 
-Hi! My name is Kasia, I'm a biological data sicentist (a mix of computational biology, data science and ML). I'm currently in my final stretch of a PhD in Genomic Medicine and Statistics @ University of Oxford. I'm busy wrapping up analyses and writing my thesis :closed_book:. Back in the day when I still had free time I took photos with my analog camera :camera: and organised summer schools in bioinformatics with [NGSchool Society](https://ngschool.eu/ngschool2022/).
+Hi! My name is Kasia, I'm a biological data scientist (a mix of computational biology, data science and ML). I'm currently in my final stretch of a PhD in Genomic Medicine and Statistics University of Oxford. I'm busy wrapping up analyses and writing my thesis :closed_book:. Back in the day when I still had free time, I took photos with my analog camera :camera: and organised summer schools in bioinformatics with [NGSchool Society](https://ngschool.eu/ngschool2022/).
 
 ### :hammer_and_wrench: Languages and tools I use
 
