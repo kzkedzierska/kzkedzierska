@@ -18,23 +18,26 @@
 <img src="https://komarev.com/ghpvc/?username=kzkedzierska&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
 
-  
-Hi! My name is Kasia, I am a biological data sicentists (a mix of computational biology, data science and ML). I'm currently in my final year of a PhD student in Genomic Medicine and Statistics @ University of Oxford. 
+Hi! My name is Kasia, I'm a biological data sicentist (a mix of computational biology, data science and ML). I'm currently in my final stretch of a PhD in Genomic Medicine and Statistics @ University of Oxford. I'm busy wrapping up analyses and writing my thesis :closed_book:. Back in the day when I still had free time I took photos with my analog camera :camera: and organised summer schools in bioinformatics with [NGSchool Society](https://ngschool.eu/ngschool2022/).
 
-### :hammer_and_wrench: Languages and tools
+### :hammer_and_wrench: Languages and tools I use
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 
-### :fire: My stats
+### ✨ My stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kzkedzierska&hide_border=true&mode=weekly)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzkedzierska&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kzkedzierska&hide_border=true&mode=weekly)](https://git.io/streak-stats) 
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzkedzierska&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **kzkedzierska/kzkedzierska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
