@@ -1,3 +1,4 @@
+# Hi there, [Kasia](https://kasia.codes/) here 👋
 
 <div id="header" align="center">
   <img src="./avatar_me.png" width="200"/>
@@ -17,9 +18,9 @@
 <img src="https://komarev.com/ghpvc/?username=kzkedzierska&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋
 
-My name is Kasia, I am a biological data sicentists (a mix of computational biology, data science and ML). I'm currently in my final year of a PhD student in Genomic Medicine and Statistics @ University of Oxford. You can read more about my reaserch on my [website](https://kasia.codes/).
+  
+Hi! My name is Kasia, I am a biological data sicentists (a mix of computational biology, data science and ML). I'm currently in my final year of a PhD student in Genomic Medicine and Statistics @ University of Oxford. 
 
 ### :hammer_and_wrench: Languages and tools
 
@@ -33,9 +34,7 @@ My name is Kasia, I am a biological data sicentists (a mix of computational biol
 
 ### :fire: My stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kzkedzierska&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzkedzierska&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kzkedzierska&hide_border=true&mode=weekly)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzkedzierska&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kzkedzierska/kzkedzierska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
