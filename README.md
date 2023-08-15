@@ -20,7 +20,7 @@
 
 ---
 
-Hi! My name is Kasia, I'm a researcher with interest in the intersection of ML and biology. During this summer I was an intern at the Microsoft Research New England in the bioML group where I worked on Foundation Models in single cell biology. Currently, I'm wrapping up my PhD in Oxford. Outside of work I like taking photos with my analog cameras :camera:
+Hi! My name is Kasia and I'm a researcher intersted in exploring the intersection of **Machine Learning** and **biology**. This summer, as an intern at the Microsoft Research New England in the bioML group, I worked on Foundation Models in single cell biology. Currently, I'm wrapping up my PhD at Oxford. Outside of work I like taking photos with my analog cameras :camera:
 
 ### :hammer_and_wrench: Languages and tools I use
 
