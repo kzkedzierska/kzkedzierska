@@ -20,7 +20,7 @@
 
 ---
 
-Hi! My name is Kasia, I'm a biological data scientist (a mix of computational biology, data science and ML). I'm currently in my final stretch of a PhD in Genomic Medicine and Statistics at University of Oxford. I'm busy wrapping up analyses and writing my thesis :closed_book:. Back in the day when I still had free time, I took photos with my analog camera :camera: and organised summer schools in bioinformatics with [NGSchool Society](https://ngschool.eu/ngschool2022/).
+Hi! My name is Kasia, I'm a researcher with interest in the intersection of ML and biology. During this summer I was an intern at the Microsoft Research New England in the bioML group where I worked on Foundation Models in single cell biology. Currently, I'm wrapping up my PhD in Oxford. Outside of work I like taking photos with my analog cameras :camera:
 
 ### :hammer_and_wrench: Languages and tools I use
 
